@@ -3,3 +3,4 @@
 - [Tugas 2 - JetPack Compose - Membuat Program Android Sederhana](basiclayouts)
 - [Tugas 3 - Composable - Membuat Aplikasi "Happy Birthday" Sederhana](HappyBirthday)
 - [Tugas 4 - Komponen Button - Membuat Aplikasi Dice Roller Interaktif](DiceRoller)
+- [Tugas 5 - Studi Kasus - Membuat Halaman Login](MyLogin)
