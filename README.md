@@ -5,3 +5,4 @@
 - [Tugas 4 - Komponen Button - Membuat Aplikasi Dice Roller Interaktif](DiceRoller)
 - [Tugas 5 - Studi Kasus - Membuat Halaman Login](MyLogin)
 - [Tugas 6 - Kotlin - Membuat Aplikasi Kalkulator Sederhana](MyCalculator)
+- [Tugas 7 - Material Design - Membuat Aplikasi "WaterBottle" Sederhana](WaterBottle)
