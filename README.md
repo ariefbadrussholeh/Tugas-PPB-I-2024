@@ -6,3 +6,5 @@
 - [Tugas 5 - Studi Kasus - Membuat Halaman Login](MyLogin)
 - [Tugas 6 - Kotlin - Membuat Aplikasi Kalkulator Sederhana](MyCalculator)
 - [Tugas 7 - Material Design - Membuat Aplikasi "WaterBottle" Sederhana](WaterBottle)
+- [Tugas 8 - Studi Kasus - Membuat Image Scroll Menggunakan Desain Material](Affirmations)
+- [Tugas 9 - Penerapan Tema Material - Membuat Aplikasi Woof](Woof)
