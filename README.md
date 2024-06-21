@@ -8,4 +8,6 @@
 - [Tugas 7 - Material Design - Membuat Aplikasi "WaterBottle" Sederhana](WaterBottle)
 - [Tugas 8 - Studi Kasus - Membuat Image Scroll Menggunakan Desain Material](Affirmations)
 - [Tugas 9 - Penerapan Tema Material - Membuat Aplikasi Woof](Woof)
+- [Tugas 10 - Activity dan Intent - Aplikasi Dessert Clicker](DessertClicker)
 - [ETS - Redesign Aplikasi Access by KAI](AccessByKAI)
+- [Tugas 11 - View Model and State - Unscramble App](UnscrambleApp)
