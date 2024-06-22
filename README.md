@@ -11,3 +11,4 @@
 - [Tugas 10 - Activity dan Intent - Aplikasi Dessert Clicker](DessertClicker)
 - [ETS - Redesign Aplikasi Access by KAI](AccessByKAI)
 - [Tugas 11 - View Model and State - Unscramble App](UnscrambleApp)
+- [Tugas 12 - Framework Flutter - Namer App](my_awesome_namer)
